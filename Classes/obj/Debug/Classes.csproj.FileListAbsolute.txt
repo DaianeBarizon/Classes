@@ -1,0 +1,5 @@
+/home/john/Rider/Classes/Classes/bin/Debug/Classes.exe
+/home/john/Rider/Classes/Classes/bin/Debug/Classes.pdb
+/home/john/Rider/Classes/Classes/obj/Debug/Classes.csprojAssemblyReference.cache
+/home/john/Rider/Classes/Classes/obj/Debug/Classes.exe
+/home/john/Rider/Classes/Classes/obj/Debug/Classes.pdb
